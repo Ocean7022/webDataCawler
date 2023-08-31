@@ -61,6 +61,9 @@ class WebrealteksemiconductorSpider(scrapy.Spider):
     def checkDataNumber(self, zhData, enData):
         if len(zhData) != len(enData):
             return 'Data number is not equal'
+        
+    def dataFilter(self, data):
+        pass
 
 
 

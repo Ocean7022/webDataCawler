@@ -10,4 +10,8 @@ def getEmbedding():
     cosine_scores = util.cos_sim(embeddings['embeddings'][0], embeddings['embeddings'][1])
     return "{:.4f}".format(cosine_scores[0][0])
 
-print(getEmbedding())
+#print(getEmbedding())
+
+
+testText = '    aa  aa   '
+print(testText.strip())
