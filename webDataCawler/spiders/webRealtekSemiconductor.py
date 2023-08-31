@@ -62,8 +62,15 @@ class WebrealteksemiconductorSpider(scrapy.Spider):
         if len(zhData) != len(enData):
             return 'Data number is not equal'
         
-    def dataFilter(self, data):
-        pass
+    def dataFilter(self, dataList):
+        newDataList = []
+        for data in dataList:
+            if data.isnumeric():
+                continue
+            
+                
+            
+            newDataList.append(data.strip())
 
 
 
