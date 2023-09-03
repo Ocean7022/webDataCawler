@@ -1,4 +1,4 @@
-import scrapy, json
+import scrapy, json, re
 from datetime import datetime
 
 class WebrealteksemiconductorSpider(scrapy.Spider):
@@ -17,27 +17,30 @@ class WebrealteksemiconductorSpider(scrapy.Spider):
             if link[0] == '/':
                 newLinks.append(f'https://{self.allowed_domains[0]}{link}')
 
-        yield scrapy.Request(newLinks[0], callback=self.parseZhPage)
-        return
+        #yield scrapy.Request(newLinks[0], callback=self.parseZhPage)
+        #return
 
         for index, link in enumerate(newLinks):
-            if index > 1:
+            if index > 9:
                 break
-            yield scrapy.Request(link, callback=self.parseZhPage)
+            yield scrapy.Request(link, callback=self.parseZhPage, meta={'pageIndex': index})
 
     def parseZhPage(self, response):
+        if response.status == 404:
+            return
+
         zhLink = response.url
         enLink = zhLink.replace('?l=zh-tw', '?l=en-us')
 
         zhData = self.getData(response)
 
-        yield scrapy.Request(enLink,  callback=self.parseEnPage, meta={'zhData': zhData, 'zhLink': zhLink})
+        yield scrapy.Request(enLink,  callback=self.parseEnPage, meta={'zhData': zhData, 'zhLink': zhLink, 'pageIndex': response.meta['pageIndex']})
 
     def parseEnPage(self, response):
+        pageIndex = response.meta['pageIndex']
+
         zhLink = response.meta['zhLink']
         enLink = response.url
-
-        title = response.xpath('//title/text()').get()
 
         zhData = response.meta['zhData']
         enData = self.getData(response)
@@ -51,26 +54,35 @@ class WebrealteksemiconductorSpider(scrapy.Spider):
                 "contents": {'zh': zhData, 'en': enData}
             } 
         
-        with open(f'../../result/tpex_tw/{title}.json', 'w', encoding = 'utf-8') as file:
+        with open(f'../../result/tpex_tw/page{pageIndex}.json', 'w', encoding = 'utf-8') as file:
             json.dump(result, file, ensure_ascii = False, indent = 4)
     
     def getData(self, response):
-        tab_a_text = response.xpath('//a/text()').getall()
-        return tab_a_text
+        text = response.xpath('//a/text()').getall()
+
+        return self.dataFilter(text)
     
     def checkDataNumber(self, zhData, enData):
         if len(zhData) != len(enData):
             return 'Data number is not equal'
         
     def dataFilter(self, dataList):
+        pattern = r'^[^\w\s]+$'
         newDataList = []
         for data in dataList:
             if data.isnumeric():
                 continue
-            
-                
-            
+
+            data.replace('\n', '')
+            data.replace('\r', '')
+            data.replace('\t', '')
+
+            if re.match(pattern, data):
+                continue
+
             newDataList.append(data.strip())
+
+        return [item for item in newDataList if item != ""]
 
 
 
