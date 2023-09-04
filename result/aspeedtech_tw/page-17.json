@@ -1,0 +1,33 @@
+{
+    "en_url": "https://www.aspeedtech.com/news_content/#5f4f557f0396956b772f24a5",
+    "zh_url": "https://www.aspeedtech.com/tw/news_content/#5f4f4c70ef63136a77e9cb56",
+    "category": null,
+    "release_date": "2023-09-04 18:07:08",
+    "para_aligned_status": null,
+    "contents": {
+        "zh": [
+            "ASPEED Showcase Full Product Line for Computex 2012!",
+            "信驊搭起登上雲端的橋梁",
+            "【二O一二年六月六日台灣新竹訊】信驊科技股份有限公司為高度創新的網路及多媒體系統單晶IC設計及行銷公司(以下簡稱信驊科技) 在今年台北國際電腦展 (Computex) 展出公司全產品線。其中包括伺服器管理，PC/AV 影音延伸跟Microsfot RemoteFX遠端桌面。",
+            "信驊科技致力於伺服器遠端管理IC的產品研發及行銷，該產品系列充分整合智慧型平台管理介面標準(IPMI 2.0)之BMC控制器及具遠端管理功能之iKVM 網路控制器於單一晶片。依據最新的Gartner研究報告，2011~2014年伺服器出貨量的年複合成長率高達29.4%，自2012年起伺服器雲端運算需求將顯著成長。信驊科技營運的成長動能將來自於市場佔有率的持續提昇，以及市場上對伺服器雲端運算需求的高度成長。",
+            "PC/AV 影音延伸IC 產品",
+            "信驊科技的AST1605將高畫質的影像藉由網路線延伸至遠端的能力，而且不光只是可以一對一的延伸，是可以如同樹狀般的延伸下去，也就是說可以一個host 對應到多個client，可以有效的運用在數位看板，除了輕鬆的讓數位看板能大範圍的架設以外，在遠端也能保有高畫質順暢的影片。",
+            "信驊科技的AST3100有支援微軟RemoteFX，從前公司每人一台獨立電腦，每台電腦上安裝五花八門的軟體，當有新人報到就得加購一台電腦。現在使用信驊科技的AST3100、Microsoft Hyper-V伺服器及RemoteFX，只要在Hyper-V server上加上新的使用者帳號並設定新使用者的權限及在信驊科技的AST3100接上USB 的鍵盤/滑鼠和螢幕，即可由AST3100透過RemoteFX連結至Microsoft Hyper-V伺服器輕鬆讓新人有個人的使用環境。另外在安全性上則可以藉由資料統一存放於伺服器裡有效控管資料安全，軟體的部份也因集中安全於伺服器裡，避免不當軟體的使用。",
+            "信驊科技總經理林鴻明表示：「我們非常高興信驊科技伺服器雲端運算遠端管理IC的設計能力獲得國內外公司認可。我們深信信驊其他產品在未來幾年將有顯著的成長空間。」",
+            "關於信驊科技",
+            "信驊科技股份有限公司於2004年11月成立於台灣新竹市，為一家極富創新精神的Fabless IC設計公司，致力於提供創新的系統單晶片、可靠的矽智財和套裝軟體，使多媒體、繪圖及網路應用為中心的SoC更為精密，公司榮獲德勤亞太高科技評選為2008年成長最快的500家企業之一，以及2009年台北國際電腦展「Best  Choice of  COMPUTEX  TAIPEI  2009  Award」等眾多獎項，信驊科技創新的伺服器遠端管理IC已經被多數世界級的伺服器品牌供應商所採用。更多詳細資訊，請參閱信驊科技公司網站：http://www.aspeedtech.com/",
+            "媒體聯絡窗口："
+        ],
+        "en": [
+            "ASPEED Showcase Full Product Line for Computex 2012!",
+            "ASPEED Showcase Full Product Line for Computex 2012!",
+            "Hsinchu, Taiwan, May 29, 2012 -",
+            "Computex Taipei is one of the most important trade shows in Asia. There, ASPEED provides insights into the latest Cloud trends for a smarter life in our increasingly networked world.",
+            "At this year's show, you can find out why “ASPEED is in the Cloud”.  As a trusted partner for major server clients both OEMs and ODMs for the last 7 years; PC/ AV Extender IC provider for the market; and a new IC for Microsoft RemoteFX solution, you can find complete solution which can help you to “Connecting you to the Cloud”.  Welcome to our booth, you can also hear what our experts have to say on cloud connectivity and the latest green PC solutions.",
+            "“We are very pleased to show case our advanced IC design capability for cloud-computing server management which not was recognized by renowned OEMs and ODM Server companies but also world-class investor like Intel Capital.  Over the past five years, cloud computing has become one of the most important IT trends, and we believe the potential of this technology is just beginning to be explored.  This year, we are not only showcasing our new products- Micorsoft RemoteFX solution, but also our core technologies at the booth.” said Chris Lin, president of ASPEED Technology.",
+            "Make sure you don’t miss ASPEED Technology at Nangang 1st FL. Booth K528~530",
+            "About ASPEED Technology Inc.ASPEED Technology Inc., a highly innovative fabless company founded in Nov. 2004, Hsinchu City, Taiwan, devotes itself to providing innovative SoC, reliable IPs and supporting software packages that enable sophisticated SoC-centric multimedia, graphics and network applications. ASPEED was chosen Deloitte Fast 500 in 2008, and received many awards such as Computex Best Choice Award.  ASPEED innovative IC has been adapted by most of the first tier companies in Server management.  For more detailed information, please visit ASPEED website at http://www.aspeedtech.com/",
+            "Related links"
+        ]
+    }
+}

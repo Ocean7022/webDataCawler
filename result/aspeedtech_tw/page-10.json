@@ -1,0 +1,29 @@
+{
+    "en_url": "https://www.aspeedtech.com/news_content/#5f4f54040396956b772f249e",
+    "zh_url": "https://www.aspeedtech.com/tw/news_content/#5f4f49a6ef63136a77e9cb4b",
+    "category": null,
+    "release_date": "2023-09-04 18:05:28",
+    "para_aligned_status": null,
+    "contents": {
+        "zh": [
+            "信驊科技參加 Computex 2016，以雲端管理為主軸揭示三大產品展示區",
+            "掌握雲端管理的先機與優勢，信驊科技(ASPEED Technology)將擴大參加5月31日至6月4日於台北世貿所舉辦的COMPUTEX TAIPEI 2016展覽，於展會中以雲端管理為主軸展出全系列產品線，包含伺服器遠端管理控制晶片(Server Management SoC)、虛擬化桌上型電腦系統晶片(Desktop Virtualization SoC)、以及影音延伸系統控制晶片(PC/AV Extension SoC)。",
+            "信驊科技目前為全球市佔率第一的伺服器遠端管理控制晶片供應商，今年五月甫宣布併購博通(Broadcom)旗下Emulex Pilot™伺服器管理晶片事業。信驊科技董事長林鴻明表示：「經由收購Emulex Pilot™伺服器管理晶片事業，將大幅提升信驊科技在伺服器遠端管理晶片的整體專利布局及技術廣度，對未來伺服器雲端市場及品牌市場的維持及擴大將有相當助益。雙方將進一步形成長期策略關係，透過更深更廣的技術合作提升產品競爭力，並提供更創新的產品以利於開拓新市場」。此外，本次展覽並獲得重大客戶的支持，將展出多款運用信驊科技伺服器管理晶片之主機板產品，藉此宣示信驊與客戶間之長期夥伴關係。",
+            "看好大型戶外顯示及數位看板的需求，信驊科技首次展出AST1520影音延伸系統控制晶片(PC/AV Extension SoC)。AST1520影音延伸系統控制晶片支援\"HDMI over IP\"以及\"USB over IP\"功能，管理者可不受時間空間限制進行遠端影像操控及置換 ; 更可支援一對多/多對多影像延伸及管理。AST1520支援4K2K (UHD)超高影像解析度；透過信驊科技獨家的影像壓縮演算技術，長距離影像傳輸幾無耗損，有效提升影像顯示品質。",
+            "繼去年所展示的虛擬化桌上型電腦系統單晶片(SoC)獲得眾多正面迴響，今年信驊再度展出新一代AST3200，支援虛擬化桌面功能(Desktop Virtualization)以及MultiPoint解決方案。AST3200為全球首款針對Microsoft RDP8.1/8.0以及Citrix HDX協定設計硬體加速之 ARM-based虛擬化桌上型電腦系統晶片，能有效減少遠端操作的畫面遲滯問題，搭配Microsoft RemoteFX還能隨時隨地連接雲端伺服器存取資料，為使用者帶來不受限的彈性工作模式以增加效率。AST3200更支援高達1920x1200的解析度，並且同時支援4個螢幕延伸顯示。今年新展出的MultiPoint功能，憑藉著單獨一台電腦即可同時支援多位使用者，允許多人共享 ；使用者僅需具備各自的螢幕及鍵盤滑鼠，即可擁有獨立運算體驗，提供最經濟的解決方案。",
+            "欲了解更詳細產品應用，歡迎至南港世貿展覽館上層 : 系統與解決方案區N1203攤位參觀體驗。",
+            "關於信驊科技",
+            "信驊科技為一家卓越的Fabless無晶圓廠IC設計公司．本公司為市場頂尖SoC系統解決方案領導者與創始者，專注於高毛利之利基型市場，並致力於研發創新與差異化之產品．其研發領域涵蓋：伺服器管理晶片、PC/AV影音延伸、桌面虛擬化(VDI)解決方案．本公司成立於2004年，並於2014及2015年榮獲富比世雜誌(Forbes)評選為亞太地區200大最佳中小企業(Asia's 200 Best Under a Billion)．信驊科技目前為全球第一大伺服器管理晶片供應商，並於2016年宣布併購博通旗下Emulex Pilot™ 伺服器遠端管理晶片事業．"
+        ],
+        "en": [
+            "ASPEED attends COMPUTEX 2016 and reveals 3 product displays",
+            "Seizing the right opportunities and advantages, ASPEED is set to attend COMPUTEX TAIPEI 2016 held from May 31st to June 4th, where we will be displaying a full product lineup revolving around \"Cloud Management\", including Server Management SoC, Desktop Virtualization SoC, and PC/AV Extension SoC.",
+            "ASPEED is currently the world's largest remote server management SoC provider on the market. Recently, in May of this year, we announced to aquired the Broadcom's Emulex Pilot™ Business. ASPEED's Chairman and CEO, Mr. Chris Lin stated that \"We believe this deal will strengthen ASPEED's product portfolio, customer base and further enhance ASPEED competitiveness in the fast-changing and ever-competitive server market. This acquisition is the beginning of a long-term strategic relationship between Broadcom and ASPEED, which is expected to include technical cooperation to provide a broader range of innovative solutions and new market opportunities for both companies.\". Additionally, at this exhibition we have received great support from our valuable customers, and will exhibit several Motherboard products using ASPEED Server Management SoC, which can demonstrate long-term cooperation with our customers.",
+            "With regards the needs of large-scale outdoor displays, and digital signage, ASPEED is, for the first time ever, putting the AST1520 PC/AV Extension SoC on display. The AST1520 PC/AV Extension SoC supports \"HDMI over IP\", as well as \"USB over IP\", so the manager is not limited by time or space when managing remote image control or replacement; and can also support single-to-many/many-to-many image extension and management. AST1520 supports 4K2K ultra high resolution extension over IP with visually lossless image quality and low latency by utilizing Ethernet technology and ASPEED's patented image compression algorithm.",
+            "After the positive response to the Virtualization Desktop Infrastructure SoC we displayed last year, ASPEED will once again showcase the new generation of AST3200 ARM-based SoC for Desktop Virtualization, and MultiPoint Solutions as well. AST3200 designs dedicated hardware decoders for Microsoft RDP8.1/8.0, and Citrix HDX Protocols to reduce the latency of remote control and achieve the best user experience. AST3200 also supports 1920x1080 resolution, and, at the same time, supports 4 screen extension displays. The new MultiPoint function, first unveiled this year, can allow multiple users, each with their own independent and familiar Windows experience, to simultaneously share one computer, which can provide a low-cost alternative to traditional computing scenarios where each user has their own computer.",
+            "If you wish to find out more details about our technologies, welcome to visit us at TWTC Nangang Exhibition Hall Upper Level, Booth No. N1203.",
+            "About ASPEED Technology",
+            "ASPEED Technology Inc. is a highly innovative fabless IC-design company founded in Nov. 2004, Hsinchu Science Park, Taiwan. With the focus on niche-market, ASPEED is an innovator of cutting-edge SoC system solutions, which include Server Management SoC solution, PC/AV extension solution, and Desktop Virtualization solution. ASPEED has been honored as one of \"Forbes Asia's 200 Best Under a Billion\" companies in 2014 and 2015. ASPEED is the worldwide No. 1 BMC chip provider, and annuonced to acquire Broadcom's Emulex PilotBusiness."
+        ]
+    }
+}

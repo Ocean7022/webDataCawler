@@ -1,0 +1,38 @@
+{
+    "en_url": "https://www.aspeedtech.com/news_content/#5f4f568b0396956b772f24ab",
+    "zh_url": "https://www.aspeedtech.com/tw/news_content/#5f4f4d42ef63136a77e9cb5c",
+    "category": null,
+    "release_date": "2023-09-04 18:08:06",
+    "para_aligned_status": null,
+    "contents": {
+        "zh": [
+            "信驊科技於 Computex 2010 推出個人雲端架構解決方案",
+            "---不犧牲您的使用權益，創造出電腦最大利用價值---",
+            "“信驊科技”這家高度創新的Fabless SoC-centric IC設計公司將在2010年5月28日於台北「Computex 2010國際電腦展」展現最新的高科技產品。展出日期為 6月1號至6月5號，位於台北世貿三館「G651」號攤位。屆時，信驊科技將展示最新的虛擬化桌面，並秀出令人期待的強大功能  利用核心技術來開發現有的產品線，信驊科技正逐步實現資源虛擬化及雲端硬體概念的夢想。新推出的晶片AST1160/70/80展現信驊科技極度創新的研究及發展，此新型晶片被認為是虛擬桌面最高性能且最有效的解決方案。信驊科技總經理林鴻明先生表示：“現今功能強大的電腦，大部分的執行功能都容易被浪費。這不僅浪費金錢，而且也非常的不環保。多人共享一台電腦的執行資源，已是非常盛行且聰明的作法”“AST1160/70/80晶片不僅提供業界全方位的解決方案，並且讓用戶用較少的花費，得到相同的使用效果“信驊科技的新晶片─AST1160/70/80是一個功能強大的外加裝置產品，可使桌上型電腦平台共享資源且相容於微軟資源虛擬化: \"Windows 多點伺服器 2010\"。它靈活的調度能力可替用戶與共享的資源平台之間延伸長達100米的距離。而網路延伸也有可能擴展至100米以上。",
+            "產品特性：",
+            "•   優質的圖像與影音體驗：整合2D圖像引擎及視頻解碼加速器，不耗費其它附屬資源配置。",
+            "•   USB強大支援：支援USB所有外加裝置配備。",
+            "•   低硬體成本費用。",
+            "•   真正的綠能科技：每用戶可節省3瓦特的電量。",
+            "•   降低管理複雜度：非IT人員也可輕鬆操作，且沒有網路設定及操作障礙的問題。",
+            "關於 ASPEED信驊科技股份有限公司“信驊科技”成立於2004年11月，為一家高度創新的fabless半導體公司。致力於提供先進的SOC中央運算產品，包含矽晶片、IP以及相關軟體產品，此產品之應用目標為多媒體、影像與網路功能。欲了解更多訊息，請參訪ASPEED官方網站http://www.ASPEEDTECH.com",
+            "媒體聯絡方式：吳俐俐行銷暨業務部資深行銷專員連絡電話：886-955-988-421Lili_wu@aspeedtech.com"
+        ],
+        "en": [
+            "ASPEED Introduces Private Cloud Computing Solution for Computex",
+            "--Get the Most out of Your PC Without Sacrificing Your Computing Experience--",
+            "Taipei, Taiwan, May 28, 2010 - ASPEED Technology Inc., a highly innovative fabless SoC-centric IC design house will showcase a new technology at Comutex 2010 in Taipei, Taiwan.  From June 1st to June 5th at Hall 3, Booth number G651.  Aspeed will exhibit the latest gear in desktop virtualization and explain the benefits that end users can expect.",
+            "Base on the core technologies developed from our existing product lines, ASPEED is taking steps into resource virtualization, a cloud computing hardware realization. The newly released ASPEED AST 1160/70/80 chipset shows ASPEED’s innovative approach to research and development.  The new flagship chipset is considered the most performance enhanced, cost effective solution for desktop virtualization.",
+            "“With today’s powerful PCs, much of the computing power is wasted.  Not only is a waste of money, but also leaving a big footprint in the environment.  Sharing the computing resource of one desktop PC by multiple users has become highly feasible and smart,” commented Chris Lin, President of ASPEED Technology Inc. \"Not only does the AST1160/70/80 chipset offer one of the industry’s most comprehensive solution but also allow users to spend less money for the same experience as a conventional PC.“",
+            "ASPEED’s new chipset, AST1160/70/80 is a powerful add-on-peripheral to enable desktop PC to function as a Shared Resource Computing Platform with Microsoft’s resource virtualization product: “Windows Multipoint Server 2010”. Its flexible deployment extends user deployment distance up to 100 meters away from the shared resource platform.  Extension beyond 100 meter is also possible with additional network extender.",
+            "Product Features:",
+            "•   Excellent Graphics and Video Experience: Integrated 2D graphics engine and video decoding accelerator, removing resourcing dependency.",
+            "•   Wide Range of USB Support: Support all the USB peripherals at extended user location.",
+            "•   Low Upfront Hardware Acquisition Cost",
+            "•   True Green Computing: Less than 3 Watts per User",
+            "•   Lower Management Complexity: Easily handled by non-IT staff, no network setting and operation hurdle.",
+            "About ASPEED Technology Inc.ASPEED Technology Inc., a highly innovative fabless company founded in Nov. 2004, Hsinchu City, Taiwan, devotes itself to providing silicon chips, silicon IPs and software products that enable sophisticated SOC-centric multimedia, graphics and network applications. For more detailed information, please visit ASPEED website at http://www.ASPEEDTECH.com",
+            "Press Contacts:Lili WuCorporate MarketingLili_wu@aspeedtech.com"
+        ]
+    }
+}

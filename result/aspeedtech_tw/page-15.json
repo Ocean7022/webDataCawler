@@ -1,0 +1,27 @@
+{
+    "en_url": "https://www.aspeedtech.com/news_content/#5f4f551c0396956b772f24a3",
+    "zh_url": "https://www.aspeedtech.com/tw/news_content/#5f4f4b54ef63136a77e9cb52",
+    "category": null,
+    "release_date": "2023-09-04 18:06:39",
+    "para_aligned_status": null,
+    "contents": {
+        "zh": [
+            "信驊科技 ASPEED 於 Computex 2013 展出「多螢一雲」虛擬化桌上型電腦系統單晶片解決方案",
+            "2013年6月4日，新竹 -- 看好雲端市場的無窮商機，以及虛擬桌面對企業和個人帶來的便利、節能、效率等優勢，專注研發電腦運算集中化管理系統單晶片(SOC)的IC設計及行銷公司 - 信驊科技，於Computex 2013以「多螢一雲」為主題展出虛擬化桌上型電腦系統單晶片及其相關應用。",
+            "信驊科技與微軟(Microsoft)簽訂開發協議，領先投入資源研發虛擬化桌上型電腦系統單晶片，本次展出支援微軟RDP 7.1 / RemoteFX 7協定的系統單晶片ASPEED AST3100，憑藉純硬體解碼器架構和先進的壓縮技術達成絕佳效能，在單一DDR3 DRAM組態下，能以每秒30幀的影格速率(FPS)支援高達1920x1200的解析度，無論在2D、3D或動態影片的播放上，均讓虛擬桌面的使用者擁有和一般個人電腦相同的使用經驗。",
+            "AST3100是全方位的精簡型電腦與Zero Client的解決方案。在虛擬桌面的架構下，一台伺服器可對應多個虛擬桌面裝置，耗電量低於1.5瓦、在省電模式下更低於0.5瓦。對企業而言，是提升效率及節省整體運作成本的極佳選項，也具備較高的資料管理安全性、並降低IT系統維護成本。信驊科技總經理林鴻明表示：「對使用者來說，虛擬桌面最大優勢是能隨時隨地經由不同的裝置，如精簡型電腦、平板電腦、手機、電視等，透過網路連接雲端伺服器存取資料，讓生活和工作都更得心應手，帶來更多可能。我們非常高興能推出這樣的解決方案。」",
+            "欲親身體驗ASPEED的桌面虛擬化產品，請至Computex 2013世貿展一館C820攤位參觀。",
+            "關於信驊科技",
+            "信驊科技為一家領先的Fabless IC設計公司，其領域包括：伺服管理器、PC /AV遠端延伸解決方案、桌面虛擬化及安全性提升。本公司為市場頂尖SOC系統解決方案的領導者與創始者，致力於提供先進的SOC中央運算產品，包含矽晶片、IP以及相關軟體產品，此產品之應用目標為多媒體、影像與網路功能。公司成立於 2004年，並於2008年獲選「德勤亞太高科技 Fast 500」成為亞太地區成長最快獲利最高的高科技公司之一。ASPEED總部位於台灣新竹科學園區，欲了解更多訊息，請參訪ASPEED官方網站：http://www.ASPEEDTECH.com。"
+        ],
+        "en": [
+            "ASPEED Showcases “One-Cloud-N-Screens” Desktop Virtualization SoC Solution at Computex 2013",
+            "June 4th, 2013, Hsinchu, Taiwan – Aiming on the promising future of cloud business, ASPEED Technology Inc., a fabless semiconductor company that specialized in centralized enterprise computing SoC solutions, showcases its “One-Cloud-N-Screens” Desktop Virtualization SoC solution at Computex 2013. This solution demonstrates the benefits that virtual desktop brings to enterprises such as convenient remote access, energy efficiency and reduce total cost ownership.",
+            "ASPEED collaborates with Mircosoft to develop virtual desktop SoC. Enabling by Microsoft’s RDP 7.1 and RemoteFX 7 technology, AST3100 is a complete system solution that brings enterprise/personal cloud computing within everyone’s reach. With pure hardwired hardware decoder, AST3100 supports up to 1920x1200 resolution at 30 FPS with single DDR3 DRAM configuration, provides same user experience as PC in 2D/3D/Video modes.",
+            "AST3100 is a full featured Ultra Thin Client replacement and a new revolution standard for Zero client. A single server can be virtualized to many Virtual Machines, increase overall productivity without extensive cost. Power consumption of AST3100 is less than 1.5 watt (less than 0.5 watt under power saving mode). For enterprises, this central management solution saves energy cost, improves IT security and decreases deployment cost. “For users, the advantage of using virtualization desktop is to access the cloud via internet anytime, anywhere by various kinds of devices, such as thin client, tablet, smart phone or TV. Virtualization desktop creates more possibilities for our life and work. We are very pleased to present our technology.“ said Chris Lin, President of ASPEED Technology.",
+            "ASPEED AST3100 provides the most efficient virtual desktop solution. Please come visit us at Hall 1 1st FL. Booth C820.",
+            "About ASPEED Technology Inc.",
+            "ASPEED Technology Inc., a highly innovative fabless company founded in Nov. 2004, Hsinchu City, Taiwan, devotes itself to providing innovative SoC, reliable IPs and supporting software packages that enable sophisticated SoC-centric multimedia, graphics and network applications. ASPEED was chosen Deloitte Fast 500 in 2008, and received many awards such as Computex Best Choice Award. ASPEED innovative IC has been adapted by most of the first tier companies in Server management.  For more detailed information, please visit ASPEED website at http://www.aspeedtech.com/"
+        ]
+    }
+}

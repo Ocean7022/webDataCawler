@@ -1,0 +1,32 @@
+{
+    "en_url": "https://www.aspeedtech.com/news_content/#5f4f55490396956b772f24a4",
+    "zh_url": "https://www.aspeedtech.com/tw/news_content/#5f4f4bfbef63136a77e9cb54",
+    "category": null,
+    "release_date": "2023-09-04 18:06:54",
+    "para_aligned_status": null,
+    "contents": {
+        "zh": [
+            "信驊科技支援英特爾(Intel) 微型伺服器用世界級處理器",
+            "信驊科技支援英特爾(Intel) 微型伺服器用世界級處理器",
+            "【二O一三年一月三日台灣新竹訊】位於新竹科學園區的信驊科技，這家高度創新的fabless Soc IC設計公司宣布已經準備好支援英特爾最新發表的Intel® Atom™ S1200系列產品。AST2300是信驊科技第四代針對高階PCIe 繪圖及Remote遠端管理所推出之高階伺服器管理晶片,該產品符合客戶所需求之BMC高效能特色並支援DDR3及2D VGA功能。",
+            "當公眾雲運算日漸茁壯, 資料中心的需求亦相對增加。信驊科技致力於伺服器遠端管理IC的產品研發，該產品系列充分整合智慧型平台管理介面標準(IPMI )之BMC控制器及具遠端管理功能之iKVM 網路控制器於單一晶片。依據最新的Gartner研究報告，2011~2014年伺服器出貨量的年複合成長率高達29.4%，伺服器雲端運算需求將顯著成長。",
+            "信驊科技於2011年8月獲得英特爾投資(Intel Capital)的投資，該筆資金運用於協助拓展信驊科技在雲端運算領域的研發與行銷。",
+            "信驊科技總經理林鴻明表示：「我們非常榮幸能支援Intel 新世代的微型伺服器處理器產品, 該產品能使系統運作更有效率。我們不只準備好將支援Intel® Atom™ S1200系列產品, 此外我們亦將於2013年推出可支援英特爾代號為「Avoton」的次世代Atom™處理器。」",
+            "英特爾亞太區技術行銷事業群資料中心平台產品暨技術行銷部總監Steve Thorne表示：「信驊科技為雲端運算及低功耗應用之先進SoC供應商。英特爾非常高興信驊科技已準備好支援最新的Intel® Atom™ S1200系列產品,以及代號為「Avoton」的新款Intel® Atom™ 處理器。」",
+            "關於信驊科技",
+            "信驊科技股份有限公司於2004年11月成立於台灣新竹市，為一家極富創新精神的Fabless IC設計公司，致力於提供創新的系統單晶片、可靠的矽智財和套裝軟體，使多媒體、繪圖及網路應用為中心的SoC更為精密，公司榮獲德勤亞太高科技評選為2008年成長最快的500家企業之一，以及2009年台北國際電腦展「Best Choice of COMPUTEX TAIPEI 2009 Award」等眾多獎項，信驊科技創新的伺服器遠端管理IC已經被多數世界級的伺服器品牌供應商所採用。更多詳細資訊，請參閱信驊科技公司網站：http://www.aspeedtech.com/",
+            "媒體聯絡窗口："
+        ],
+        "en": [
+            "ASPEED Supports Intel’s World First Server-Class Processor for Microsevers",
+            "ASPEED Supports Intel’s World First Server-Class Processor for Microsevers",
+            "Hsinchu, Taiwan, Jan 3rd, 2013 ASPEED Technology Inc., a fabless semiconductor company that specializes in Remote Server Management SoC (system on chip) is ready to support Intel® newly announced Atom™ processor S1200 product family.  The AST2300 is ASPEED’s 4th generation of Advanced PCIe Graphics & Remote Management Processor.  It provides customer with Advanced BMC features, DDR3 and 2D VGA support to meet the increasing performance requirements.",
+            "As public cloud computing continues to grow, the demand for data centers has becoming heavily weighted. ASPEED’s research and development of remote server management ICs enables a richer server system feature set, including the addition of an IPMI-complaint baseboard management controller (BMC) and iKVM functions.   According to Gartner, the market for cloud computing will expand rapidly in the coming years, with cloud-computing server shipments forecast to grow at a compound annual growth rate (CAGR) of 29.4% from 2011 to 2014.",
+            "In August, 2011, Aspeed received investment led by Intel Capital, Intel's global investment and M&A organization. The fund is being used to expand ASPEED’s research and development team and extend the company’s marketing program for cloud computing solutions.",
+            "“We are very pleased to support Intel’s new-generation processor for Microsevers which enables systems to be as energy efficient as possible.  Not only we’re are ready to support the Intel® Atom™ processor S1200 product family, but we will also support Intel’s next-generation Atom processor codenamed “Avoton” which will be available in 2013,” said Chris Lin, president of ASPEED Technology.",
+            "“ASPEED Technology is well-positioned to grow in cloud computing and low-power computing applications,” said Steve Thorne, Regional Marketing Director, APAC Advanced Technical Sales, Intel. “Intel is very pleased that ASPEED is actively supporting the new Intel® Atom™ processor S1200 product family, along with the future processor codenamed Avoton.”",
+            "About ASPEED Technology Inc.ASPEED Technology Inc., a highly innovative fabless company founded in Nov. 2004, Hsinchu City, Taiwan, devotes itself to providing innovative SoC, reliable IPs and supporting software packages that enable sophisticated SoC-centric multimedia, graphics and network applications. ASPEED was chosen Deloitte Fast 500 in 2008, and received many awards such as Computex Best Choice Award.  ASPEED innovative IC has been adapted by most of the first tier companies in Server management.  For more detailed information, please visit ASPEED website at http://www.aspeedtech.com/",
+            "Inquiries:"
+        ]
+    }
+}

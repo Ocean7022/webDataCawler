@@ -1,0 +1,29 @@
+{
+    "en_url": "https://www.aspeedtech.com/news_content/#5f4f54a70396956b772f24a1",
+    "zh_url": "https://www.aspeedtech.com/tw/news_content/#5f4f4a73ef63136a77e9cb4f",
+    "category": null,
+    "release_date": "2023-09-04 18:06:11",
+    "para_aligned_status": null,
+    "contents": {
+        "zh": [
+            "信驊科技即將於 COMPUTEX TAIPEI 2015 正式展出新一代虛擬化桌上型電腦單晶片 AST3200",
+            "2015年6月2日，COMPUTEX TAPIEI – 看好虛擬桌面系統(Virtual Desktop Infrastructure)對於企業及個人將帶來的便利、節能、效率等優勢，專注研發電腦運算集中化管理系統單晶片(SoC)的IC設計及行銷公司信驊科技，於6月2日至6月6日在台北世貿所舉辦的COMPUTEX TAIPEI 2015展覽中將正式展出新一代AST3200虛擬化桌上型電腦系統單晶片(SoC)。AST3200虛擬化桌上型電腦系統單晶片針對企業用戶，不只提供了企業資訊的安全，搭配Microsoft RemoteFX還能隨時隨地連接雲端伺服器存取資料為使用者帶來不受限的彈性工作模式，增加效率。",
+            "AST3200為全球首款針對Microsoft RDP8.1/8.0以及Citrix HDX協定設計硬體加速之ARM-based虛擬化桌上型電腦系統晶片，能有效減少遠端操作的畫面遲滯問題，提供使用者彷彿個人電腦之流暢體驗。憑藉著硬體加速(Hardware acceleration)的支援，AST3200可以提供等同於X86高階處理器之效能，而僅僅需要1.5瓦之耗電量。對企業主而言，在虛擬桌面架構下，一台伺服器可對應多個虛擬桌面裝置，更是提升效率及節省整體運作成本的極佳選項，也具備資料集中管理提高安全性之優勢，並有效降低IT系統維護成本。 AST3200單晶片能支援高達1920x1200的解析度，並且能夠同時支援4個螢幕延伸顯示，讓虛擬桌面使用者無論在動態影像播放或視覺體驗上皆能獲得等同高階電腦之效能，更能有效提升工作效率。信驊科技表示，AST3200虛擬化桌上型電腦系統晶片目前已進入最後測試階段，將於2015年7月正式量產，預估公司營收將能獲得可觀挹注。",
+            "欲了解更詳細產品應用，歡迎至世貿一館1F C1023攤位參觀體驗。",
+            "關於信驊科技",
+            "信驊科技為一家卓越的Fabless無晶圓廠IC設計公司，本公司為市場頂尖SoC系統解決方案的領導者與創始者，專注於高毛利之利基型市場，並致力於研發創新與差異化之產品。其研發領域涵蓋：伺服器管理晶片、PC /AV影音延伸、桌面虛擬化(VDI)解決方案。本公司成立於 2004年，2014年並榮獲富比士雜誌(Forbes)評選為亞太地區200大最佳中小企業 (Asia's 200 Best Under a Billion)。ASPEED總部位於台灣新竹科學工業園區，欲了解更多訊息，請參訪ASPEED官方網站：www.ASPEEDTECH.com。",
+            "媒體連絡:信驊科技股份有限公司吳俐俐 Email : lili_wu@aspeedtech.com"
+        ],
+        "en": [
+            "ASPEED Announces World’s leading Virtual Desktop Infrastructure (VDI) Solution AST3200 in COMPUTEX TAIPEI 2015",
+            "COMPUTEX, June 2th, 2015, Taiwan – Aiming to provide a more flexible and reliable work environment, ASPEED Technology Inc., a fabless IC-design company that specializes in centralized enterprise computing SoC solutions, exhibits its world’s leading Virtual Desktop Infrastructure (VDI) solution AST3200 at COMPUTEX TAIPEI 2015. This solution enables employees to work via remote desktop services that provide flexibility to work anywhere, while allowing them to access their corporate system running in the centralized datacenter. The AST3200 VDI solution also increases the benefits of centralized control, energy saving, data security and cost efficiency in the enterprise market.",
+            "AST3200 VDI solution is the world’s first ARM-based SoC that designs dedicated hardware decoders for Microsoft RDP8.1/8.0 as well as Citrix HDX protocols to reduce the latency of remote control and achieve the best user experience. Users can access a centralized datacenter remotely to work anytime, anywhere. The virtual desktop can be accessed anywhere from WAN/LAN via WiFi or Ethernet cable. Moreover, with the aid of hardware acceleration, AST3200’s performance is as outstanding as a high-end X86 processor, while, in contrast, the power consumption is merely 1.5W at full-speed operation.",
+            "AST3200 is a total solution with both reference hardware and firmware ready, which helps save tremendous efforts for your product development while still provides the flexibility of customization. The AST3200 PCBA cost is only 1/2 ~ 1/3 of a traditional thin client. Also, by supporting up to 1920 x 1200 resolution and maximally 4 simultaneous video outputs for display extension, AST3200 can fulfill high-end client applications. ASPEED Technology announced it will successfully mass produce AST3200 VDI solution as of July, 2015.",
+            "For more information, please visit us in TWTC Hall 1 1F, Booth. C1023.",
+            "About ASPEED Technology Inc.",
+            "ASPEED Technology Inc. is a highly innovative fabless IC-design company founded in Nov. 2004, Hsinchu Science Park, Taiwan. With the focus on niche-market, ASPEED is an innovator of cutting-edge SoC system solutions, which include Server Management SoC solution, PC/AV extension solution, and Desktop Virtualization. ASPEED Technology has been honored as one of “Forbes Asia's 200 Best Under a Billion” companies in 2014, and received many awards  such as Computex Best Choice Award.  For more detailed information, please visit ASPEED website at http://www.aspeedtech.com/",
+            "Media Contact:",
+            "ASPEED Technology Inc.Lili WuE-mail: lili_wu@aspeedtech.com"
+        ]
+    }
+}

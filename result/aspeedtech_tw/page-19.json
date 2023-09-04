@@ -1,0 +1,36 @@
+{
+    "en_url": "https://www.aspeedtech.com/news_content/#5f4f55cb0396956b772f24a7",
+    "zh_url": "https://www.aspeedtech.com/tw/news_content/#5f4f4cc2ef63136a77e9cb58",
+    "category": null,
+    "release_date": "2023-09-04 18:07:37",
+    "para_aligned_status": null,
+    "contents": {
+        "zh": [
+            "佈局雲端商機 英特爾投資信驊科技",
+            "佈局雲端商機 英特爾投資信驊科技",
+            "【二O一一年八月三十一日台灣新竹訊】信驊科技股份有限公司為高度創新的網路及多媒體系統單晶IC設計及行銷公司(以下簡稱信驊科技)宣佈獲得英特爾投資(Intel Capital)的投資，該筆資金將協助拓展信驊科技在雲端運算領域的研發與行銷。",
+            "信驊科技致力於伺服器遠端管理IC的產品研發及行銷，該產品系列充分整合智慧型平台管理介面標準(IPMI 2.0)之BMC控制器及具遠端管理功能之iKVM 網路控制器於單一晶片。依據最新的Gartner研究報告，2011~2014年伺服器出貨量的年複合成長率高達29.4%，自2012年起伺服器雲端運算需求將顯著成長。信驊科技營運的成長動能將來自於市場佔有率的持續提昇，以及市場上對伺服器雲端運算需求的高度成長。",
+            "信驊科技總經理林鴻明表示：「我們非常高興信驊科技伺服器雲端運算遠端管理IC的設計能力獲得世界級投資公司--英特爾投資的認可。在過去五年，雲端運算已成為趨勢，我們深信雲端運算的影響力才剛開始，未來幾年將有顯著的成長空間。信驊科技的研發團隊能夠正確掌握伺服器技術規格及未來趨勢，提供客戶最新伺服器遠端管理IC。我們完整的產品能夠充分滿足客戶不同市場區隔的需求。」",
+            "英特爾投資副總裁Keith Larson表示：「在過去六年，信驊科技已成為伺服器遠端管理系統解決方案的先進SoC供應商。隨著信驊科技在伺服器主控晶片的豐富經驗，其將持續提供創新、精密的多媒體及網路管理應用SoC產品。隨著雲端運算服務與技術的演進與發展，我們相信，信驊科技將可在雲端運算領域扮演重要角色，並在未來持續成長。」",
+            "關於信驊科技",
+            "信驊科技股份有限公司於2004年11月成立於台灣新竹市，為一家極富創新精神的Fabless IC設計公司，致力於提供創新的系統單晶片、可靠的矽智財和套裝軟體，使多媒體、繪圖及網路應用為中心的SoC更為精密，公司榮獲德勤亞太高科技評選為2008年成長最快的500家企業之一，以及2009年台北國際電腦展「Best  Choice of  COMPUTEX  TAIPEI  2009  Award」等眾多獎項，信驊科技創新的伺服器遠端管理IC已經被多數世界級的伺服器品牌供應商所採用。更多詳細資訊，請參閱信驊科技公司網站：http://www.aspeedtech.com/",
+            "關於英特爾投資 (Intel Capital)",
+            "英特爾投資係英特爾公司的創投部門，旨在對全球的創新科技及公司進行資本投資；投資範圍包括針對企業、家庭、行動運算、醫療保健、消費者網路、半導體製造及無塵技術等領域的硬體、軟體及服務。自1991年以來，英特爾投資已經在全球 50個國家的 1140 多家公司投資超過 100億美元。其中有268 家公司已被併購，另有 191 家公司公開上市。2010 年，英特爾投資在全球119個投資案中投入近 3.27 億美元，其中約有 44％ 投資位於美國和加拿大以外的公司。相關資訊請參見 英特爾投資網站 http://www.intelcapital.com",
+            "媒體聯絡窗口：",
+            "電話:  +886-2-2716-9660",
+            "傳真:  +886-2-2546-0946"
+        ],
+        "en": [
+            "ASPEED Receives Funding Led by Intel Capital",
+            "ASPEED Receives Funding Led by Intel Capital",
+            "Hsinchu, Taiwan, August 31, 2011 - ASPEED Technology Inc., a fabless semiconductor company that specializes in SoC (system on chip) design, announced today that it received funding from Intel Capital, Intel’s global investment organization.  The funding will be used to expand ASPEED’s research and development team and extend the company’s marketing program for cloud computing solutions.",
+            "ASPEED’s research and development of remote server management ICs enables a richer server system feature set, including the addition of an IPMI-complaint baseboard management controller (BMC) and iKVM functions.   According to Gartner, the market for cloud computing will expand rapidly in the coming years, with cloud-computing server shipments forecast to grow at a compound annual growth rate (CAGR) of 29.4% from 2011 to 2014.  ASPEED hopes to capitalize on this growing demand for cloud computing to expand its business in the coming years.",
+            "“We are very pleased that our advanced IC design capability for cloud-computing server management was recognized by world-class investor Intel Capital.  Over the past five years, cloud computing has become one of the most important IT trends, and we believe the potential of this technology is just beginning to be explored.  Innovation is the wellspring of ASPEED’s growth, and lies at the heart of all aspects of our business, from strategic planning, marketing and management,” said Chris Lin, president of ASPEED Technology.",
+            "“Over the last 6 years, ASPEED has grown to become a leading provider of cutting-edge SoC system solutions for remote server management. With ASPEED’s rich experience in server BMC implementation, the company’s products enable sophisticated multimedia and management applications over the network,” said Keith Larson, vice president, Intel Capital. “Driven by growing demand for cloud computing services and technology, ASPEED is well positioned for future growth.”",
+            "About ASPEED Technology Inc.ASPEED Technology Inc., a highly innovative fabless company founded in Nov. 2004, Hsinchu City, Taiwan, devotes itself to providing innovative SoC, reliable IPs and supporting software packages that enable sophisticated SoC-centric multimedia, graphics and network applications. ASPEED was chosen Deloitte Fast 500 in 2008, and received many awards such as Computex Best Choice Award.  ASPEED innovative IC has been adapted by most of the first tier companies in Server management.  For more detailed information, please visit ASPEED website at http://www.aspeedtech.com/",
+            "About Intel Capital",
+            "Intel Capital, Intel's global investment organization, makes equity investments in innovative technology start-ups and companies worldwide. Intel Capital invests in a broad range of companies offering hardware, software, and services targeting enterprise, home, mobility, health, consumer Internet, semiconductor manufacturing and cleantech. Since 1991, Intel Capital has invested more than US$10 billion in over 1,140 companies in 50 countries. In that timeframe, 191 portfolio companies have gone public on various exchanges around the world and 268 were acquired or participated in a merger. In 2010, Intel Capital invested US$327 million in 119 investments with approximately 44 percent of funds invested outside the United States and Canada. For more information on Intel Capital and its differentiated advantages, visit http://www.intelcapital.com.",
+            "Inquiries:"
+        ]
+    }
+}

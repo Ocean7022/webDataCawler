@@ -111,9 +111,9 @@ class webAspeedtechTW():
             if data.isnumeric():
                 continue
 
-            data.replace('\n', '')
-            data.replace('\r', '')
-            data.replace('\t', '')
+            data = data.replace('\n', '')
+            data = data.replace('\r', '')
+            data = data.replace('\t', '')
 
             if re.match(pattern, data):
                 continue

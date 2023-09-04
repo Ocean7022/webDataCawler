@@ -1,0 +1,25 @@
+{
+    "en_url": "https://www.aspeedtech.com/news_content/#5f4f56ff0396956b772f24af",
+    "zh_url": "https://www.aspeedtech.com/tw/news_content/#5f4f4dbdef63136a77e9cb60",
+    "category": null,
+    "release_date": "2023-09-04 18:08:49",
+    "para_aligned_status": null,
+    "contents": {
+        "zh": [
+            "信驊科技發布第一代伺服管理處理器",
+            "--AST2000/AST1000--",
+            "位於新竹科學園區的信驊科技，這家高度創新的fabless Soc –centric IC設計公司很高興地於2005年10月發布它們第一代的伺服管理處理器。AST2000為一結合了VGA/2D圖形控制器、BMC控制器及KVM Over IP控制器的高級矽晶片。它可提供伺服器功能齊全且先進的系統管理。",
+            "信驊科技董事長林鴻明先生表示：“ 我們的使命是提供伺服器安全且功能齊全的遠端操作存取技術，使得 IT管理員可以隨時隨地的存取控制，我們最新研發這項符合成本效益的SOC可充分支援遠端管理功能。”",
+            "關於 ASPEED信驊科技股份有限公司“信驊科技”成立於2004年11月，為一家高度創新的fabless半導體公司。致力於提供先進的SOC中央運算產品，包含矽晶片、IP以及相關軟體產品，此產品之應用目標為多媒體、影像與網路功能。欲了解更多訊息，請參訪ASPEED官方網站 http://www.ASPEEDTECH.com",
+            "媒體聯絡方式：吳俐俐行銷暨業務部資深行銷專員連絡電話：886-955-988-421Lili_wu@aspeedtech.com"
+        ],
+        "en": [
+            "ASPEED Announced 1’st Generation of Server Management Processor",
+            "--AST2000/AST1000--",
+            "Hsinchu, Taiwan, Oct, 2005 - ASPEED Technology Inc., a highly innovative fabless SoC-centric IC design house is excited to announce its 1st generation of server management processor. AST2000 is a high-end silicon chip incorporating VGA/2D Graphics Controller, BMC Controller and KVM over IP Controller. It brings fully featured advanced system management to server.",
+            "“Our mission is to provide secure, fully featured remote access to the server that gives IT administrator access from anywhere and anytime.  Our new innovative cost-effective SOC can fully support remote management functionality.” said Chris Lin President of ASPEED Technology.",
+            "About ASPEED Technology Inc.ASPEED Technology Inc., a highly innovative fabless company founded in Nov. 2004, Hsinchu City, Taiwan, devotes itself to providing silicon chips, silicon IPs and software products that enable sophisticated SOC-centric multimedia, graphics and network applications. For more detailed information, please visit ASPEED website at http://ww.ASPEEDTECH.com",
+            "Press Contacts:Lili WuCorporate MarketingLili_wu@aspeedtech.com"
+        ]
+    }
+}
