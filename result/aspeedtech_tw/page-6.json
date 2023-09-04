@@ -1,0 +1,34 @@
+{
+    "en_url": "https://www.aspeedtech.com/news_content/#5f4f479aef63136a77e9cb40",
+    "zh_url": "https://www.aspeedtech.com/tw/news_content/#5f4f4834ef63136a77e9cb41",
+    "category": null,
+    "release_date": "2023-09-04 17:26:18",
+    "para_aligned_status": null,
+    "contents": {
+        "zh": [
+            "信驊科技擴大專利佈局，強化智慧財產優勢",
+            "信驊科技甫於去年12月喜迎企業總部喬遷至新竹市公道五路台肥大樓，今日宣布新竹總部之形象暨企業專利牆落成，信驊科技對於關鍵技術之智慧財產權及專利取得保護一向極為重視，2016年併購博通旗下Emulex Pilot™事業團隊，至為關鍵之一項原因即為擴大信驊在BMC遠端伺服器管理晶片整體專利及技術廣度，有鑑於近年來國際間專利訴訟日益增加，信驊科技於專利方面之佈局不僅保護信驊自身之核心技術；對於客戶產品保障及長期合作更是具助益。",
+            "董事長林鴻明表示：「面對企業營運全球化的發展，智慧財產權的保護可以說是全球經貿佈局的重要一環，更是企業要永續發展的關鍵。信驊科技從2004年成立以來，對專利之取得與保護投入相當大的努力，也不斷鼓勵研發團隊積極取得關鍵專利，2016年併購Emulex Pilot™後，更是完整補足了BMC產品線在全球專利佈局的完整性，為客戶提供更有價值的解決方案，並協助信驊科技提升其在伺服器市場之競爭力。」以信驊所取得美國專利為例，US08375115B2專利號主要針對單晶片IC在伺服器系統裡透過網路提供遠端及近端控制及管理伺服器功能；US08144160B號專利技術可應用於以非侵入性方式獲取緩存影像記憶資料(Frame Buffer Memory)之更新狀態；US08838856B2及US09727520B2號專利主要用於控制伺服器系統上的虛擬同步/非同步傳輸接收裝置(UART)；US09024878B2專利則針對伺服器系統中控制滑鼠鼠標於遠端與近端顯示器同步之專利；上述多項專利均掌握了BMC遠端伺服器管理晶片於伺服器系統上之各項關鍵技術；此外，信驊科技亦逐年累積台灣專利，未來將持續提升SoC軟硬體研發人才在專利智財方面的深耕及取得，大幅提升信驊科技在伺服器遠端管理晶片的智慧財產布局，同時對未來伺服器雲端市場及品牌客戶長期策略夥伴維持將更為穩固，進而提升信驊科技的企業價值與國際化。",
+            " ",
+            "新聞聯絡：  ",
+            "公共關係 ",
+            "法人關係 ",
+            "闕汀儀 ",
+            "吳俐俐 ",
+            "tingi_chueh@aspeedtech.com ",
+            " lili_wu@aspeedtech.com",
+            " ",
+            "  \n關於信驊科技",
+            "信驊科技為一家卓越的Fabless無晶圓廠IC設計公司，本公司為市場頂尖SoC系統解決方案的領導者與創始者，專注於高毛利之利基型市場，並致力於研發創新與差異化之產品。其研發領域涵蓋：BMC遠端伺服器管理晶片、PC /AV影音延伸解決方案、以及最新的Cupola360 360度多影像拼接專用處理晶片。本公司成立於 2004年，於2014年，2015年，2018年及2019年並連續榮獲富比士雜誌(Forbes)評選為亞太地區200大最佳中小企業 (Asia's 200 Best Under a Billion)，目前為全球第一大伺服器管理晶片供應商，並於2016年宣布併購博通旗下Emulex Pilot™伺服器遠端管理晶片事業。ASPEED總部位於台灣新竹科學工業園區，欲了解更多訊息，請參訪ASPEED官方網站：www.ASPEEDTECH.com。Cupola360產品相關訊息，請參訪Cupola360官方網站: www.Cupola360.com。"
+        ],
+        "en": [
+            "ASPEED Technology Inc. Expands Patent Layout and Strengthens Intellectual Property Advantages",
+            "In December last year (2019), ASPEED Technology Inc. (“ASPEED”) celebrated the move of its corporate headquarters to the Taiwan Fertilizer Building located at Gongdao 5th Road, Hsinchu City. Today, ASPEED announced the completion of its Corporate Patent Wall at the Hsinchu headquarters. ASPEED has always attached great importance to the protection of intellectual property rights and key technology patents. In 2016, the merger and acquisition of Broadcom’s Emulex Pilot™ became the key to expand the overall breadth of patents and technologies for the BMC remote server management chips. In light of the increasing international patent litigation trend in recent years, ASPEED’s patent layout can protect its own core technologies while benefiting customer product protection and long-term cooperation.",
+            "Chairman Chris Lin stated, “In light of the global enterprise operation development trend, intellectual property rights have become an essential segment to global economic and trade layout as well as sustainable enterprise development. Since ASPEED’s establishment in 2004, we have invested considerable efforts into patent acquisition and protection, and inspired our R&D teams to actively obtain the key patents. After the acquisition of Emulex Pilot™ in 2016, ASPEED has comprehensively complemented the integrity of its BMC product line global patent layout in order to provide more valuable solutions to the customers and enhanced our competitiveness in the server market.” Take the US patents obtained by ASPEED as an example: patent US08375115B2 primarily provides remote and near end control/management server functions for single chip IC in the integrated server system for data processing; patent US08144160B2 primary provides an apparatus to capture display parameters and monitor non-intrusive frame buffer memory information for remote display; patents US08838856B2 and US09727520B2 are mainly applied to control the Universal Asynchronous Receiver/Transmitter (UART) for the integrated server system; and patent US09024878B2 is focused on controlling the mouse for the integrated server system and ensuring the control of the local cursor positioning and the cursor synchronization from a remote computer system. Many of these patents involve mastering the key technologies of the BMC remote server management chips on the integrated server system. In addition, ASPEED has also accumulated numerous Taiwanese patents over the years. We will continue to inspire SoC software and hardware R&D talents to acquire more intellectual property patents, significantly improve the intellectual property layout for our server remote management chips, maintain stability for the server Cloud market and long-term strategic brand customers/partners in the future, and thereby enhance the corporate value and internationalization of ASPEED.",
+            "  ",
+            "About ASPEED Technology Inc.\nASPEED Technology Inc. is a highly innovative fabless IC-design company founded in 2004 and headquartered in Hsinchu Science Park, Taiwan. As a pioneer and leader of cutting-edge SoC system solutions with a focus on the niche markets of high-margin products, the company's specialties range from Server Management SoC solution, PC/AV extension solution, to the latest Cupola360 multi-image stitching image processor.",
+            " ",
+            "ASPEED has been dedicated to developing innovative technologies in order to quickly respond to customer needs, which has made the company a leading provider of innovative SoC system solutions as well as a reliable business partner. ASPEED is currently the world's No. 1 BMC (Baseboard Management Controller) chip provider, and has been honored as one of \"Forbes Asia's 200 Best Under a Billion\" companies in 2014, 2015, 2018, and 2019. In 2016, ASPEED acquired Broadcom's Emulex Pilot™ remote server management chip business. For more detailed information, please visit ASPEED website at www.ASPEEDTECH.com and Cupola360.com."
+        ]
+    }
+}

@@ -2,37 +2,58 @@ from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
-import time
+from datetime import datetime
+import time, json
 
 class webAspeedtechTW():
     zhUrl = "https://www.aspeedtech.com/tw/news"
     enUrl = "https://www.aspeedtech.com/news/"
     s = Service(executable_path='./chromedriver.exe')
-    driverZh = webdriver.Chrome(service = s)
-    #driverEn = webdriver.Chrome(service = s)
-
-    def __init__(self):
-        # news = {"date": "", "link": "", "linkText": ""}
-        newsZh = []
+    driver = webdriver.Chrome(service = s)
 
     def startCawler(self):
-        self.driverZh.get(self.zhUrl)
-        #self.driverEn.get(self.url)
-
+        # to zh page
+        print("Start Cawler in zh page")
+        self.driver.get(self.zhUrl)
         time.sleep(10)
-        zhData = self.getNews(self.driverZh)
-        print(zhData)
+        zhLinkList = self.getNews(self.driver)
+        
+        # to en page
+        print("Start Cawler in en page")
+        self.driver.get(self.enUrl)
+        time.sleep(10)
+        enLinkList = self.getNews(self.driver)
 
-        self.driverZh.close()
-        #self.driverEn.close()
+        # pair the links
+        print("Pair the links")
+        linkList = self.pairTheLinks(zhLinkList, enLinkList)
+
+        # get page content per page
+        for index, link in enumerate(linkList):
+            enData = self.getPageContent(self.driver, link["en"]["link"])
+            zhData = self.getPageContent(self.driver, link["zh"]["link"])
+
+            result = {
+                "en_url": link["en"]["link"],
+                "zh_url": link["zh"]["link"],
+                "category": None,
+                "release_date": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
+                "para_aligned_status": None,
+                "contents": {'zh': zhData, 'en': enData}
+            }
+
+            with open(f'../result/aspeedtech_tw/page-{index}.json', 'w', encoding = 'utf-8') as file:
+                json.dump(result, file, ensure_ascii = False, indent = 4)
+
+        self.driver.close()
 
     def getNews(self, driver):
         haveNextPage = True
         newsList = []
 
         while haveNextPage:
-            print("In While loop")
-            time.sleep(10)
+            print("Getting News List")
+            time.sleep(3)
             newsElements = driver.find_element(By.ID, "news").find_elements(By.TAG_NAME, "tr")
             for newElement in newsElements:
                 td = newElement.find_elements(By.TAG_NAME, "td")
@@ -42,14 +63,45 @@ class webAspeedtechTW():
                     "linkText": td[1].text
                 })
             haveNextPage = self.nextPage(driver)
-            print("Have Next Page", haveNextPage)
         return newsList
     
     def nextPage(self, driver):
+        print("Find next page")
         if driver.find_element(By.ID, "news-next").is_displayed():
-            print("Check Next Page = Trun")
+            print("Next page is found")
             driver.find_element(By.ID, "news-next").click()
-            time.sleep(10)
+            time.sleep(3)
             return True
         else:
+            print("Next page is not found")
             return False
+
+    def pairTheLinks(self, zhLinkList, enLinkList):
+        linkList = []
+        for zhLink in zhLinkList:
+            for enLink in enLinkList:
+                if zhLink["date"] == enLink["date"]:
+                    linkList.append({
+                        "zh": zhLink,
+                        "en": enLink
+                    })
+                    break
+        return linkList
+        
+    def getPageContent(self, driver, link):
+        print("Getting page content")
+        driver.get(link)
+        time.sleep(6)
+
+        # get news title
+        title = driver.find_element(By.ID, "news-title").text
+
+        # get news content
+        contents = driver.find_element(By.ID, "news-content").find_elements(By.TAG_NAME, "p")
+        contentList = []
+        for zhContent in contents:
+            contentList.append(zhContent.text)
+
+        return [title] + contentList
+
+
