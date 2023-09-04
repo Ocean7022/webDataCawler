@@ -1,0 +1,17 @@
+{
+    "en_url": "https://www.tpex.org.tw/web/inc/index_center_trade_ebts_quotes.php?l=en-us",
+    "zh_url": "https://www.tpex.org.tw/web/inc/index_center_trade_ebts_quotes.php?l=zh-tw",
+    "category": null,
+    "release_date": "2023-09-04 11:38:14",
+    "para_aligned_status": null,
+    "contents": {
+        "zh": [
+            "債券電腦議價-報價行情揭示",
+            "註1： 盤中僅揭示報價對象超過70家以上的等殖系統參與者之行情，提供予資訊廠商者亦同。"
+        ],
+        "en": [
+            "Electronic Bond Trading System - Government Bond Quotation",
+            "Note 1： Only inter-dealers' trades are disclosed."
+        ]
+    }
+}

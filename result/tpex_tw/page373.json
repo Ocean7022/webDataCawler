@@ -1,0 +1,16 @@
+{
+    "en_url": "https://www.tpex.org.tw/web/inc/index_center_trade_pera.php?l=en-us",
+    "zh_url": "https://www.tpex.org.tw/web/inc/index_center_trade_pera.php?l=zh-tw",
+    "category": "Data number is not equal",
+    "release_date": "2023-09-04 11:42:11",
+    "para_aligned_status": null,
+    "contents": {
+        "zh": [
+            "上櫃股票個股本益比、殖利率、股價淨值比",
+            "*使用iPhone,iPad建議下載CSV檔(UTF-8)"
+        ],
+        "en": [
+            "Stock P/E Ratio"
+        ]
+    }
+}

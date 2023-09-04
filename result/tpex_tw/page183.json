@@ -1,0 +1,27 @@
+{
+    "en_url": "https://www.tpex.org.tw/web/fund/lateststats/new.htm?l=en-us",
+    "zh_url": "https://www.tpex.org.tw/web/fund/lateststats/new.htm?l=zh-tw",
+    "category": null,
+    "release_date": "2023-09-04 12:34:33",
+    "para_aligned_status": null,
+    "contents": {
+        "zh": [
+            "基金數",
+            "檔   \r\n\t\t\t\t\t\t累計成交金額",
+            "元   \r\n\t\t\t\t\t\t總成交筆數",
+            "筆   \r\n\t\t\t\t\t\t總成交數量",
+            "受益單位",
+            "註:本行情表每分鐘更新乙次。",
+            "製表時間:"
+        ],
+        "en": [
+            "基金數",
+            "檔   \r\n\t\t\t\t\t\t累計成交金額",
+            "元   \r\n\t\t\t\t\t\t總成交筆數",
+            "筆   \r\n\t\t\t\t\t\t總成交數量",
+            "受益單位",
+            "註:本行情表每分鐘更新乙次。",
+            "製表時間:"
+        ]
+    }
+}

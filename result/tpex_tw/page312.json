@@ -1,0 +1,53 @@
+{
+    "en_url": "https://www.tpex.org.tw/web/bond/knowledge/system/company.php?l=en-us",
+    "zh_url": "https://www.tpex.org.tw/web/bond/knowledge/system/company.php?l=zh-tw",
+    "category": null,
+    "release_date": "2023-09-04 11:57:51",
+    "para_aligned_status": null,
+    "contents": {
+        "zh": [
+            "債券種類",
+            "得於本系統交易之普通公司債及金\r\n                            融債券必須為固定利率且可於系統\r\n                            換算為百元價之債券",
+            "於櫃買中心掛牌之普通公司債、金融債",
+            "交易時間",
+            "電腦議價買賣斷：9:00 ~ 13:30\r\n                            比對系統：13:30 ~ 16:00\r\n                            一般擔保品附條件：9:00 ~ 9:30",
+            "買賣斷：9:00~15:00\r\n                            附條件：9:00~15:00",
+            "最小交易單位",
+            "電腦議價：面額新台幣5000萬元\r\n                            比對系統：面額新台幣10萬元",
+            "面額新台幣1萬元",
+            "交割週期",
+            "電腦議價買賣斷：T+2\r\n                            比對交易：T+1或T+2\r\n                            一般擔保品附條件：T+0",
+            "T+2以內",
+            "交割方式",
+            "款：央行同資系統\r\n                            券：採集保結算所帳簿劃撥方式進行交割",
+            "由交易雙方自行約定給付結算方式",
+            "證券櫃檯買賣中心",
+            "行動版選單",
+            "證券櫃檯買賣中心 版權所有© 2023",
+            "台北市中正區羅斯福路二段100號15樓",
+            "Tel : (02)2369-9555  投資人服務專線 : (02)2366-6100"
+        ],
+        "en": [
+            "Bond Type",
+            "Corporate bonds and financial debentures that may be traded  \r\n                            through the EBTS must offer a fixed rate and its per-hundred  \r\n                            reference price can be converted in the system.",
+            "Corporate bonds and financial debentures that list \r\n                            on the TPEx",
+            "Trading Hours",
+            "Computerized Negotiation\r\n                            System：9:00 ~ 13:30\r\n                            Comparison System：13:30 ~ 16:00\r\n                            Ordinary-Collateral Repo-Style\r\n                            Transactions：9:00 ~ 9:30",
+            "Outright\r\n                            Purchases/Sells：\r\n                            9:00~15:00\r\n                            Repo/ Reverse Repo：\r\n                            9:00~15:00",
+            "Minimum Trading Units",
+            "Computerized Negotiation \r\n                            System：NT$50 million par value\r\n                            Comparison System：NT$100,000 par value",
+            "NT$10,000 par value",
+            "Settlement Date",
+            "Computerized Negotiation\r\n                            System：T+2\r\n                            Comparison System：T+1 or T+2\r\n                            Ordinary-Collateral Repo-Style\r\n                            Transactions：T+0",
+            "Within T+2",
+            "Settlement Method",
+            "Money：CBC Interbank Funds Transfer and Settlement System\r\n                            Bond：Transferred on a book-entry basis through the TDCC",
+            "The settlement method is negotiated and \r\n                            agreed between the two parties",
+            "Taipei Exchange",
+            "Mobile Menu",
+            "Copyright© 2023 Taipei Exchange. All Rights Reserved.",
+            "15F,No.100,Sec.2,Roosevelt Road,Taipei,Taiwan,10084",
+            "Tel : +886-2-2369-9555"
+        ]
+    }
+}

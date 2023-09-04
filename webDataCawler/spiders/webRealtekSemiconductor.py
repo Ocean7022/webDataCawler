@@ -21,20 +21,20 @@ class WebrealteksemiconductorSpider(scrapy.Spider):
         #return
 
         for index, link in enumerate(newLinks):
-            if index > 9:
-                break
             yield scrapy.Request(link, callback=self.parseZhPage, meta={'pageIndex': index})
 
     def parseZhPage(self, response):
         if response.status == 404:
             return
+        
+        pageIndex = response.meta['pageIndex']
 
         zhLink = response.url
         enLink = zhLink.replace('?l=zh-tw', '?l=en-us')
 
-        zhData = self.getData(response)
+        zhData = self.getData(response, pageIndex)
 
-        yield scrapy.Request(enLink,  callback=self.parseEnPage, meta={'zhData': zhData, 'zhLink': zhLink, 'pageIndex': response.meta['pageIndex']})
+        yield scrapy.Request(enLink,  callback=self.parseEnPage, meta={'zhData': zhData, 'zhLink': zhLink, 'pageIndex': pageIndex})
 
     def parseEnPage(self, response):
         pageIndex = response.meta['pageIndex']
@@ -43,7 +43,7 @@ class WebrealteksemiconductorSpider(scrapy.Spider):
         enLink = response.url
 
         zhData = response.meta['zhData']
-        enData = self.getData(response)
+        enData = self.getData(response, pageIndex)
 
         result = {
                 "en_url": enLink,
@@ -57,8 +57,16 @@ class WebrealteksemiconductorSpider(scrapy.Spider):
         with open(f'../../result/tpex_tw/page{pageIndex}.json', 'w', encoding = 'utf-8') as file:
             json.dump(result, file, ensure_ascii = False, indent = 4)
     
-    def getData(self, response):
-        text = response.xpath('//a/text()').getall()
+    def getData(self, response, pageIndex):
+        a_text = []
+        if pageIndex == 0:
+            a_text = response.xpath('//a/text()').getall()
+
+        td_text = response.xpath('//td/text()').getall()
+        div_text = response.xpath('//div/text()').getall()
+        span_text = response.xpath('//span/text()').getall()
+
+        text = a_text + td_text + div_text + span_text
 
         return self.dataFilter(text)
     

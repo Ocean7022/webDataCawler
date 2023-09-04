@@ -1,0 +1,22 @@
+{
+    "en_url": "https://www.tpex.org.tw/web/stock/iNdex_info/minute_index/1MIN.php?l=en-us",
+    "zh_url": "https://www.tpex.org.tw/web/stock/iNdex_info/minute_index/1MIN.php?l=zh-tw",
+    "category": "Data number is not equal",
+    "release_date": "2023-09-04 12:13:51",
+    "para_aligned_status": null,
+    "contents": {
+        "zh": [
+            "本資訊自民國103年1月6日起開始提供，民國103年1月3日前資訊",
+            "證券櫃檯買賣中心 版權所有©1994-2023  10084台北市中正區羅斯福路二段100號15樓",
+            "總機:(02)2369-9555     興櫃交易諮詢專線:(02)2366-6102     投資人服務及投資詐騙檢舉專線:(02)2366-6100",
+            "本站建議最佳瀏覽條件：螢幕解析度 1024x768 以上，瀏覽器為 Chrome、Safari、Edge、FireFox。"
+        ],
+        "en": [
+            "The information provided below is available since 2014/01/06. For information before 2014/01/03, please click",
+            "©1994-2023 Taipei Exchange.15F,No.100,Sec.2,Roosevelt Road,Taipei,Taiwan,10084.",
+            "Tel: +886-2-23699555, Emerging Stock Trading Hotline: +886-2-2366-6102, Investor Hotline: +886-2-23666100",
+            "Recommended using Chrome,Safari or FireFox with 1024x768 screen resolution to browse the website.",
+            "Taipei Exchange"
+        ]
+    }
+}

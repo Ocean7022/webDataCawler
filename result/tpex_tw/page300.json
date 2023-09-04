@@ -1,0 +1,27 @@
+{
+    "en_url": "https://www.tpex.org.tw/web/bond/tradeinfo/conversion/rp.php?l=en-us",
+    "zh_url": "https://www.tpex.org.tw/web/bond/tradeinfo/conversion/rp.php?l=zh-tw",
+    "category": null,
+    "release_date": "2023-09-04 12:01:38",
+    "para_aligned_status": null,
+    "contents": {
+        "zh": [
+            "證券櫃檯買賣中心",
+            "稅後",
+            "稅前",
+            "行動版選單",
+            "證券櫃檯買賣中心 版權所有© 2023",
+            "台北市中正區羅斯福路二段100號15樓",
+            "Tel : (02)2369-9555  投資人服務專線 : (02)2366-6100"
+        ],
+        "en": [
+            "Taipei Exchange",
+            "After-Tax",
+            "Pre-Tax",
+            "Mobile Menu",
+            "Copyright© 2023 Taipei Exchange. All Rights Reserved.",
+            "15F,No.100,Sec.2,Roosevelt Road,Taipei,Taiwan,10084",
+            "Tel : +886-2-2369-9555"
+        ]
+    }
+}

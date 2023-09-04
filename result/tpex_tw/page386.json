@@ -1,0 +1,26 @@
+{
+    "en_url": "https://www.tpex.org.tw/web/inc/index_center_trade_ebts_trade.php?l=en-us",
+    "zh_url": "https://www.tpex.org.tw/web/inc/index_center_trade_ebts_trade.php?l=zh-tw",
+    "category": "Data number is not equal",
+    "release_date": "2023-09-04 11:37:28",
+    "para_aligned_status": null,
+    "contents": {
+        "zh": [
+            "債券電腦議價-成交行情揭示",
+            "指標利率:",
+            "漲跌:",
+            "註1：變動＝[最近殖利率]-[參考殖利率*]。",
+            "註2：盤中僅揭示報價對象超過70家以上的等殖系統參與者之行情，提供予資訊廠商者亦同。",
+            "註3：*係指前一營業日本中心債券公平價格表所載成交之加權平均殖利率；前一營業日無成交紀錄時，依前一營業日本中心債券公平價格表所載理論之殖利率。"
+        ],
+        "en": [
+            "Electronic Bond Trading System - Government Bond Trading",
+            "Rate:",
+            "Change:",
+            "Note 1：Change = [Last Price]-[Reference Price*]",
+            "Note 2：Only the price of the inter-dealers who offer bid/offer price to over 70 other dealers will reveal on",
+            "ther screen during the trading session. The same information provided to the information venders.",
+            "Note 3：* Reference price means the average weighted price in last 5 minutes on last trading day."
+        ]
+    }
+}
