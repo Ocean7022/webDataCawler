@@ -2,7 +2,7 @@ from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
 from datetime import datetime
-import time, json
+import time, json, re
 
 class webAspeedtechTW():
     zhUrl = "https://www.aspeedtech.com/tw/news"
