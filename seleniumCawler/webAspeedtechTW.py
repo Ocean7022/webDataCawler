@@ -1,5 +1,4 @@
 from selenium import webdriver
-from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
 from datetime import datetime
@@ -30,7 +29,9 @@ class webAspeedtechTW():
 
         # get page content per page
         for index, link in enumerate(linkList):
+            print("Getting en page content")
             enData = self.getPageContent(self.driver, link["en"]["link"])
+            print("Getting zh page content")
             zhData = self.getPageContent(self.driver, link["zh"]["link"])
 
             result = {
@@ -89,7 +90,6 @@ class webAspeedtechTW():
         return linkList
         
     def getPageContent(self, driver, link):
-        print("Getting page content")
         driver.get(link)
         time.sleep(6)
 
@@ -102,6 +102,22 @@ class webAspeedtechTW():
         for zhContent in contents:
             contentList.append(zhContent.text)
 
-        return [title] + contentList
+        return self.dataFilter([title] + contentList)
 
+    def dataFilter(self, dataList):
+        pattern = r'^[^\w\s]+$'
+        newDataList = []
+        for data in dataList:
+            if data.isnumeric():
+                continue
 
+            data.replace('\n', '')
+            data.replace('\r', '')
+            data.replace('\t', '')
+
+            if re.match(pattern, data):
+                continue
+
+            newDataList.append(data.strip())
+
+        return [item for item in newDataList if item != ""]
